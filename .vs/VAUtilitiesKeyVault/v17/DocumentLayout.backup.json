@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\hybriddecryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\hybriddecryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\hybridencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\hybridencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\cryptoenvelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\cryptoenvelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vakeyvault.winforms.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|solutionrelative:vakeyvault.winforms.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\keypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\keypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vakeyvault.winforms.test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|solutionrelative:vakeyvault.winforms.test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\embeddedpemloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\embeddedpemloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vakeyvault.winforms.test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|solutionrelative:vakeyvault.winforms.test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\certificateloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\certificateloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vakeyvault.winforms.test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FED-B265-452C-9E38-89003299E287}|VAKeyVault.WinForms.Test\\VAKeyVault.WinForms.Test.csproj|solutionrelative:vakeyvault.winforms.test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|c:\\users\\vyshak\\source\\repos\\vautilitieskeyvault\\vautilitieskeyvault\\enum\\keyslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068B356-B4DF-4C63-A6BF-053F2051264E}|VAUtilitiesKeyVault\\VAUtilitiesKeyVault.csproj|solutionrelative:vautilitieskeyvault\\enum\\keyslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.cs",
+              "RelativeDocumentMoniker": "VAKeyVault.WinForms.Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.cs",
+              "RelativeToolTip": "VAKeyVault.WinForms.Test\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:54:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.cs",
+              "RelativeDocumentMoniker": "VAKeyVault.WinForms.Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.cs [Design]",
+              "RelativeToolTip": "VAKeyVault.WinForms.Test\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:51:00.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CertificateLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\CertificateLoader.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\CertificateLoader.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\CertificateLoader.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\CertificateLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T05:45:04.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoEnvelope.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\CryptoEnvelope.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\CryptoEnvelope.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\CryptoEnvelope.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\CryptoEnvelope.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:59:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HybridDecryptor.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\HybridDecryptor.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\HybridDecryptor.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\HybridDecryptor.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\HybridDecryptor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:58:09.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HybridEncryptor.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\HybridEncryptor.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\HybridEncryptor.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\HybridEncryptor.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\HybridEncryptor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:57:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmbeddedPemLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\EmbeddedPemLoader.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\EmbeddedPemLoader.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\EmbeddedPemLoader.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\EmbeddedPemLoader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:56:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\App.config",
+              "RelativeDocumentMoniker": "VAKeyVault.WinForms.Test\\App.config",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\App.config",
+              "RelativeToolTip": "VAKeyVault.WinForms.Test\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-17T09:33:03.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\KeyPolicy.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\KeyPolicy.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\KeyPolicy.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\KeyPolicy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:16:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VAKeyVault.WinForms.Test\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAKeyVault.WinForms.Test\\Form1.Designer.cs",
+              "RelativeToolTip": "VAKeyVault.WinForms.Test\\Form1.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwF8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:55:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeySlot.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\Enum\\KeySlot.cs",
+              "RelativeDocumentMoniker": "VAUtilitiesKeyVault\\Enum\\KeySlot.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\VAUtilitiesKeyVault\\VAUtilitiesKeyVault\\Enum\\KeySlot.cs",
+              "RelativeToolTip": "VAUtilitiesKeyVault\\Enum\\KeySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:01:18.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
