@@ -1,5 +1,4 @@
 # VAKeyVault.WinForms
-.Net 4.8 library to encrypt and decrypt using Azure key vault private keys
 
 A .NET Framework 4.8 class library that provides **secure encryption and decryption** using **Azure Key Vault**.  
 Designed for **Windows Forms (WinForms)** and other desktop applications.
@@ -80,7 +79,7 @@ Add the following values to the **calling application's** `app.config`:
 <!-- Optional: Defaults to Primary -->
 <add key="VA_KV_ActiveSlot" value="Primary" />
 </appSettings>
-
+---
 ## Usage Example
 // Encrypt
 byte[] encrypted = HybridEncryptor.Encrypt(
@@ -93,12 +92,13 @@ byte[] decrypted = HybridDecryptor.Decrypt(
 
 string result = Encoding.UTF8.GetString(decrypted);
 
+---
 ## Key Rotation
 
 Key rotation is controlled internally by the library
 
 Switching between Primary and Secondary keys is done via configuration (calling windows forms app config)
-
+---
 ## Security Notes
 
 Private RSA keys never exist in application memory
@@ -108,7 +108,7 @@ No secrets are stored in source code
 Authentication uses certificates (no client secrets)
 
 Uses Microsoft-recommended cryptographic algorithms
-
+---
 ## Supported Application Types
 
 Windows Forms (.NET Framework 4.8)
@@ -116,7 +116,7 @@ Windows Forms (.NET Framework 4.8)
 Console applications
 
 Windows Services
-
+---
 ## Notes
 
 The application must have permission to access the certificate private key
